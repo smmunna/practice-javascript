@@ -1,4 +1,8 @@
-let arr =[2,3,4,5,6];
-arr[4]=1;
-console.log(arr);
+function square(x) {
+  return x * x;
+  console.log(5* x) ;
+}
+ square(3);
+// demo will equal 9
+
 // node test.js
